@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: javax.annotation:javax.annotation-api:1.2:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/javax.annotation/javax.annotation-api/javax.annotation-api-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib_managed/docs/javax.annotation/javax.annotation-api/javax.annotation-api-1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/javax.annotation/javax.annotation-api/javax.annotation-api-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

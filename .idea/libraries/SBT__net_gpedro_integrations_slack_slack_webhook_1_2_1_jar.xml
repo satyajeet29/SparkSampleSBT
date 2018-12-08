@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: net.gpedro.integrations.slack:slack-webhook:1.2.1:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/net.gpedro.integrations.slack/slack-webhook/slack-webhook-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib_managed/docs/net.gpedro.integrations.slack/slack-webhook/slack-webhook-1.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/net.gpedro.integrations.slack/slack-webhook/slack-webhook-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
