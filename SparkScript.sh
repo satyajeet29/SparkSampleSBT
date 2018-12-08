@@ -6,7 +6,7 @@
 # echo item: $i
 #done
 echo "--->> $(date '+%Y %b %d %H:%M:%S') :: Execution of JAR file begins"
-command spark-submit --queue default  --class pradhan.com.spark.SparkSQLSample /target/scala-2.1.1/SparkSampleSBT_2.11-2.1.1_1.0.jar 2>>spark-sbt-log.txt;
+command spark-submit --queue default  --class pradhan.com.spark.SparkSQLSample target/scala-2.11/SparkSampleSBT_2.11-2.1.1_1.0.jar 2>>spark-sbt-log.txt;
 echo "--->> $(date '+%Y %b %d %H:%M:%S') :: Execution of JAR file ends"
 echo
 echo
